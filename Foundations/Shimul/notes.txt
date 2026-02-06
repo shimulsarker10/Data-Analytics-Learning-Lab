@@ -1,0 +1,32 @@
+📘 Data Analytics Journey – Day 1
+
+📅 Date: July 13, 2025  
+✍️ Written by Me & my bro ChatGPT😂
+
+🔹 What I Started Learning:
+- Introduction to "Data Analytics"
+  - What is data analytics?
+  - Why it's important in today’s world
+  - Real-life uses (business, sports, healthcare)
+
+🔹 Tools I Installed:
+- Anaconda (includes Python, Jupyter Notebook, pandas, etc.)
+- Jupyter Notebook (successfully opened in browser)
+
+🔹 What I Did Today:
+- Learned about the purpose and goal of data analytics
+- Explored how Jupyter Notebook works
+- Ran my first Python cell (print statement)
+
+🔹 Next Plan:
+- Learn Python basics (variables, data types, loops)
+- Create a new notebook: `python-basics.ipynb`
+- Start writing simple Python code for analysis
+
+
+📆 July 15, 2025
+Excel Practice - Data Sequencing & Formatting
+- Number sequences
+- Odd/Even number lists
+- Date series
+- Combining text + numbers 
