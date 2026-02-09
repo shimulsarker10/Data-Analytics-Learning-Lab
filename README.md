@@ -1,1 +1,1 @@
-# WE will complete our goal
+# We will complete our goal
